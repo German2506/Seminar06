@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\obj\Debug\net6.0\HW17_IntersectionPoint.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\obj\Debug\net6.0\HW17_IntersectionPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\obj\Debug\net6.0\HW17_IntersectionPoint.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\obj\Debug\net6.0\HW17_IntersectionPoint.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\obj\Debug\net6.0\HW17_IntersectionPoint.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\bin\Debug\net6.0\HW17_IntersectionPoint.exe
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\bin\Debug\net6.0\HW17_IntersectionPoint.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\bin\Debug\net6.0\HW17_IntersectionPoint.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\bin\Debug\net6.0\HW17_IntersectionPoint.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\bin\Debug\net6.0\HW17_IntersectionPoint.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\obj\Debug\net6.0\HW17_IntersectionPoint.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\obj\Debug\net6.0\refint\HW17_IntersectionPoint.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\obj\Debug\net6.0\HW17_IntersectionPoint.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\obj\Debug\net6.0\HW17_IntersectionPoint.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW17_IntersectionPoint\obj\Debug\net6.0\ref\HW17_IntersectionPoint.dll
