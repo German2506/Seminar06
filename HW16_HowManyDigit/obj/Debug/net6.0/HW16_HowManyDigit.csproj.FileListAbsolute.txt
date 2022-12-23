@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\bin\Debug\net6.0\HW16_HowManyDigit.exe
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\bin\Debug\net6.0\HW16_HowManyDigit.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\bin\Debug\net6.0\HW16_HowManyDigit.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\bin\Debug\net6.0\HW16_HowManyDigit.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\bin\Debug\net6.0\HW16_HowManyDigit.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\obj\Debug\net6.0\HW16_HowManyDigit.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\obj\Debug\net6.0\HW16_HowManyDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\obj\Debug\net6.0\HW16_HowManyDigit.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\obj\Debug\net6.0\HW16_HowManyDigit.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\obj\Debug\net6.0\HW16_HowManyDigit.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\obj\Debug\net6.0\HW16_HowManyDigit.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\obj\Debug\net6.0\refint\HW16_HowManyDigit.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\obj\Debug\net6.0\HW16_HowManyDigit.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\obj\Debug\net6.0\HW16_HowManyDigit.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_6\HW16_HowManyDigit\obj\Debug\net6.0\ref\HW16_HowManyDigit.dll

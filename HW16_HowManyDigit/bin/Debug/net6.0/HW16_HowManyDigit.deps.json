@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HW16_HowManyDigit/1.0.0": {
+        "runtime": {
+          "HW16_HowManyDigit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW16_HowManyDigit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
